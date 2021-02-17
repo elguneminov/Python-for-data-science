@@ -1,10 +1,6 @@
 # Learn Python for Data Science
 A collection of Jupyter Notebooks designed to learn Python for Data Science. There is no better way to learn, than learning by coding.
 
-You can open and run this entire repository on BlobCity A.I. Cloud.
-
-[<img src="http://cloud.blobcity.net/assets/images/badge.png" height="25" style="margin-bottom:-15px" />](https://cloud.blobcity.com/#/ps/shared-cloudbook/66c4fcaa-b0e4-4e0a-b275-49cdf007667a)
-
 # Video Lectures for this Repo
 [Lessons 1 & 2](https://youtu.be/3oHJYDcfYW0)
 
