@@ -6,6 +6,3 @@ A collection of Jupyter Notebooks designed to learn Python for Data Science. The
 * Pandas
 * Matplotlib
 * Scikit-Learn
-
-# Contribute
-We are very keen to enhance our content. If you find any mistakes, language corrections, please do correct and send a PR. You can also send a PR by improving the learning content on any of the Notebooks.
