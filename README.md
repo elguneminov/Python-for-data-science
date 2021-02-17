@@ -1,9 +1,6 @@
 # Learn Python for Data Science
 A collection of Jupyter Notebooks designed to learn Python for Data Science. There is no better way to learn, than learning by coding.
 
-# Video Lectures for this Repo
-[Lessons 1 & 2](https://youtu.be/3oHJYDcfYW0)
-
 # Upcoming Modules
 * NumPy
 * Pandas
